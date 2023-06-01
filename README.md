@@ -2,7 +2,7 @@
 Java Development (Powered by MJC School)
 
 This repository contains the source code and exercises for the Java course I took on the EPAM website. 
-The course covers the fundamentals of the Java programming language, including object-oriented programming concepts, data structures, control structures, etc.
+The course covers the subjects of the Java programming language, including object-oriented programming concepts, data structures, control structures, etc.
 
 Each module of the course includes several exercises and challenges, along with solutions for each task. The code is organized into separate directories for each module, and the solutions are provided in separate files. 
 
