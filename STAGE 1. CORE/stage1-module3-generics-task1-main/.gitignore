@@ -1,0 +1,10 @@
+/target
+/.idea
+/.shelf
+/.project
+/.settings
+/.classpath
+/logs
+/.gradle
+/build
+/gradle
